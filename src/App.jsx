@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter,Link,  Routes, Route } from "react-router-dom";
+import { BrowserRouter,  Routes, Route } from "react-router-dom";
 
 import Layout from "./Layout";
 import Contact from "./Contact";
